@@ -1,2 +1,2 @@
-# ics-security
-Collect ics-security issue.
+# ICS-Security
+Collect ICS-Security issue.
